@@ -1,4 +1,4 @@
-renovador-sabi
+renovador-sabi-ufrgs
 ==============
 
 Renovador de livros automático para o SABi UFRGS
