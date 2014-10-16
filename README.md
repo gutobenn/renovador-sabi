@@ -4,7 +4,7 @@ renovador-sabi
 Renovador de livros automático para o SABi UFRGS
 
 ### Configuração
-- Defina seu usuário no início do arquivo sabi.sh
+- Defina usuário e senha no início do arquivo sabi.sh
 
 ### Utilização
 - Execute o arquivo sabi.sh. Ele renovará todos empréstimos e retornará uma lista como suas respectivas datas de devolução. Confira as datas.
